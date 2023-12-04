@@ -1,0 +1,8 @@
+CloudMonitor/bin/
+CloudMonitor/obj/
+.idea/
+.DS_Store
+/Folder.DotSettings.user
+CloudMonitor/appsettings.json
+CloudMonitor/appsettings.Development.json
+*CloudMonitor/obj/
